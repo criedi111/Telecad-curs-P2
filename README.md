@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## JavaScript Advanced - Curs 3
 
 Pentru a rula aceasta etapa (in linie de comanda):
@@ -9,3 +10,10 @@ Pentru a rula aceasta etapa (in linie de comanda):
 #### 3. `npm install` (posibil sa dureze)
 
 #### 4. `npm start`
+=======
+# Telecad-curs-P2
+
+Good to know
+
+1.
+>>>>>>> b5cdd553669169359bdfc33a289c302da09b3f58
